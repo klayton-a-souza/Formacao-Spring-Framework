@@ -23,3 +23,4 @@ Por fim, veremos como testar uma aplicação Spring e colocá-la em produção, 
 Para construir uma aplicação web bem, é preciso dominar alguns conceitos, como o protocolo HTTP e o padrão MVC (Model-View-Controller). A base do desenvolvimento web com Java são as famosas Servlets, que são o foco dessa parte da formação. Você aprenderá como criar as camadas, usar controllers, actions e trabalhar com requisições, respostas e conteúdo em HTML. E para montar e gerenciar a aplicação e as suas dependências de forma profissional, apresentaremos o Maven, o build tool mais popular do mundo Java e a base da maioria de projeto Spring.
 
 * [Java Servlet: programação web Java](https://github.com/klayton-a-souza/Java-Servlet-I)
+* [Java Servlet: autenticação, autorização e o padrão MVC](https://github.com/klayton-a-souza/Java-Servlet-II)
