@@ -24,3 +24,10 @@ Para construir uma aplicação web bem, é preciso dominar alguns conceitos, com
 
 * [Java Servlet: programação web Java](https://github.com/klayton-a-souza/Java-Servlet-I)
 * [Java Servlet: autenticação, autorização e o padrão MVC](https://github.com/klayton-a-souza/Java-Servlet-II)
+* [Maven: gerenciamento de dependências e build de aplicações Java](https://github.com/klayton-a-souza/Maven-Java)
+
+## Do JDBC ao Spring Data
+
+Saber como lidar com o banco de dados relacional é essencial para a grande maioria das aplicações, principalmente na área back-end. Começamos de baixo nível, mostrando como executar SQL através da tradicional biblioteca JDBC. Como primeira abstração, introduzimos a JPA (Java Persistence API), até chegar no Spring Data, que simplifica muito o uso de um banco.
+
+* [Java e JDBC: trabalhando com um banco de dados](https://github.com/klayton-a-souza/Java-JDBC)
