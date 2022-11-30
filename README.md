@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://spring.io/images/OG-Spring.png">
+  <img src="https://enotas.com.br/blog/wp-content/uploads/2021/04/Spring-Framework-1024x440.png">
   <br>
   Formação Spring Framework
   <br>
