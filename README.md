@@ -31,3 +31,5 @@ Para construir uma aplicação web bem, é preciso dominar alguns conceitos, com
 Saber como lidar com o banco de dados relacional é essencial para a grande maioria das aplicações, principalmente na área back-end. Começamos de baixo nível, mostrando como executar SQL através da tradicional biblioteca JDBC. Como primeira abstração, introduzimos a JPA (Java Persistence API), até chegar no Spring Data, que simplifica muito o uso de um banco.
 
 * [Java e JDBC: trabalhando com um banco de dados](https://github.com/klayton-a-souza/Java-JDBC)
+* [Persistênci com JPA: Hibernate](https://github.com/klayton-a-souza/JPA-Hibernate)
+* [Java e JPA: consultas avançadas, performance e modelos complexos](https://github.com/klayton-a-souza/Java-e-JPA)
